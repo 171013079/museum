@@ -49,7 +49,7 @@
 3.小黄心情有些低落，不想继续浏览比较安静的展区，想去一些有互动性，令人愉悦的展厅。
 
 原型：
-![image.png](https://upload-images.jianshu.io/upload_images/9540329-b4a64d9e07c26a97.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/9540329-b4a64d9e07c26a97.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![image.png](https://upload-images.jianshu.io/upload_images/9540329-e7b87eeef3c5f598.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/9540329-e7b87eeef3c5f598.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
