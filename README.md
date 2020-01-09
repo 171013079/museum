@@ -47,3 +47,8 @@
 1.小红参观了许久，想坐下休息，找到可以休息的地方。但是不知道最近的休息区在哪里。
 2.小绿在博物馆被熊孩子吵到，想一个人静一静，不知道哪个展厅人比较少。
 3.小黄心情有些低落，不想继续浏览比较安静的展区，想去一些有互动性，令人愉悦的展厅。
+
+原型：
+![image.png](https://upload-images.jianshu.io/upload_images/9540329-b4a64d9e07c26a97.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/9540329-e7b87eeef3c5f598.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
